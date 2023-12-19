@@ -1,6 +1,7 @@
 # BMI-Calculator
 
-<h1 align="center">Hi 👋, I'm Hamza Unsal</h1>
+<h1 align="center">Hi 👋, I'm Hamza </h1>
+<h2 align="center">Thats my Tkinter Python App </h2>
 <h3 align="center">A passionate frontend developer from Hungary, BUDAPEST!</h3>
 
 - 🔭 I’m currently working on **Python & React projects**
